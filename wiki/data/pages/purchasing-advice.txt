@@ -1,0 +1,5 @@
+====== Purchasing Advice ======
+===== Partlists and Pricing =====
+  * [[http://pcpartpicker.com/|PCPartPicker]]
+  * [[http://portablepicker.com/|PortablePicker]]
+

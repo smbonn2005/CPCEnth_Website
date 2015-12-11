@@ -1,0 +1,29 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1447803733;s:8:"modified";i:1447804676;}s:7:"creator";s:15:"Stephen Bonnell";s:4:"user";s:14:"stephenbonnell";s:11:"last_change";a:7:{s:4:"date";i:1447804676;s:2:"ip";s:13:"108.49.129.55";s:4:"type";s:1:"E";s:2:"id";s:13:"software_list";s:4:"user";s:14:"stephenbonnell";s:3:"sum";s:21:"[Package Installers] ";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:14:"stephenbonnell";s:15:"Stephen Bonnell";}s:5:"title";s:25:"Recommended Software List";s:11:"description";a:2:{s:15:"tableofcontents";a:31:{i:0;a:4:{s:3:"hid";s:25:"recommended_software_list";s:5:"title";s:25:"Recommended Software List";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:8:"browsers";s:5:"title";s:8:"Browsers";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:2;a:4:{s:3:"hid";s:18:"package_installers";s:5:"title";s:18:"Package Installers";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:3;a:4:{s:3:"hid";s:5:"email";s:5:"title";s:5:"Email";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:4;a:4:{s:3:"hid";s:17:"instant_messaging";s:5:"title";s:17:"Instant Messaging";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:5;a:4:{s:3:"hid";s:18:"instant_relay_chat";s:5:"title";s:18:"Instant Relay Chat";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:6;a:4:{s:3:"hid";s:12:"voip_clients";s:5:"title";s:12:"VOIP Clients";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:7;a:4:{s:3:"hid";s:16:"file_compression";s:5:"title";s:16:"File Compression";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:8;a:4:{s:3:"hid";s:18:"torrenting_clients";s:5:"title";s:18:"Torrenting Clients";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:9;a:4:{s:3:"hid";s:11:"ftp_clients";s:5:"title";s:11:"FTP Clients";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:10;a:4:{s:3:"hid";s:18:"system_maintenance";s:5:"title";s:18:"System Maintenance";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:11;a:4:{s:3:"hid";s:29:"disk_maintenance_and_recovery";s:5:"title";s:29:"Disk Maintenance and Recovery";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:12;a:4:{s:3:"hid";s:20:"anti-virus_solutions";s:5:"title";s:20:"Anti-virus Solutions";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:13;a:4:{s:3:"hid";s:15:"malware_removal";s:5:"title";s:15:"Malware Removal";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:14;a:4:{s:3:"hid";s:18:"firewall_solutions";s:5:"title";s:18:"Firewall Solutions";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:15;a:4:{s:3:"hid";s:18:"system_information";s:5:"title";s:18:"System Information";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:16;a:4:{s:3:"hid";s:31:"office_documents_coding_and_pdf";s:5:"title";s:34:"Office, Documents, Coding, and PDF";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:17;a:4:{s:3:"hid";s:10:"multimedia";s:5:"title";s:10:"Multimedia";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:18;a:4:{s:3:"hid";s:15:"backup_software";s:5:"title";s:15:"Backup Software";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:19;a:4:{s:3:"hid";s:17:"graphics_software";s:5:"title";s:17:"Graphics Software";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:20;a:4:{s:3:"hid";s:14:"online_storage";s:5:"title";s:14:"Online Storage";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:21;a:4:{s:3:"hid";s:12:"productivity";s:5:"title";s:12:"Productivity";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:22;a:4:{s:3:"hid";s:13:"anonymization";s:5:"title";s:13:"Anonymization";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:23;a:4:{s:3:"hid";s:20:"digital_distribution";s:5:"title";s:20:"Digital Distribution";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:24;a:4:{s:3:"hid";s:13:"customization";s:5:"title";s:13:"Customization";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:25;a:4:{s:3:"hid";s:10:"sandboxing";s:5:"title";s:10:"Sandboxing";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:26;a:4:{s:3:"hid";s:20:"product_key_recovery";s:5:"title";s:20:"Product Key Recovery";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:27;a:4:{s:3:"hid";s:11:"vpn_clients";s:5:"title";s:11:"VPN Clients";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:28;a:4:{s:3:"hid";s:32:"optical_usb_and_disc_image_tools";s:5:"title";s:34:"Optical, USB, and Disc Image Tools";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:29;a:4:{s:3:"hid";s:17:"download_managers";s:5:"title";s:17:"Download Managers";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:30;a:4:{s:3:"hid";s:10:"d_modeling";s:5:"title";s:11:"3D Modeling";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:299:"Recommended Software List
+
+Browsers
+
+• Chrome
+• Firefox
+• Opera
+• Midori
+• Tor Browser
+
+Package Installers
+
+• Ninite
+• Chocolatey
+• OneGet
+• Ketarin
+• FreeApps
+• FileHippo
+
+Email
+
+• Thunderbird
+• Opera Mail
+• Outlook
+• PopTray
+• Eudora
+• Sylpheed
+
+Instant Messaging";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1447803733;s:8:"modified";i:1447804676;}s:7:"creator";s:15:"Stephen Bonnell";s:4:"user";s:14:"stephenbonnell";s:11:"last_change";a:7:{s:4:"date";i:1447804676;s:2:"ip";s:13:"108.49.129.55";s:4:"type";s:1:"E";s:2:"id";s:13:"software_list";s:4:"user";s:14:"stephenbonnell";s:3:"sum";s:21:"[Package Installers] ";s:5:"extra";s:0:"";}s:11:"contributor";a:1:{s:14:"stephenbonnell";s:15:"Stephen Bonnell";}}}

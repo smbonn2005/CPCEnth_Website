@@ -1,0 +1,20 @@
+====== Custom PC Enthusiasts Wiki ======
+
+
+===== Welcome =====
+<WRAP center danger 100%>
+The wiki is a work in progress and many pages may be broken or incomplete at this time. Please take the time to add to or complete any articles you are able to.
+</WRAP>
+
+{{:cpce-dropshadow.png?220 |http://fb.cpcenth.net}}You've managed to make your way to the official Wiki of the [[http://fb.cpcenth.net|Custom PC Enthusiasts Facebook Group]]. Within this site you can find resources and information to help you fully utilize and enjoy your custom PC, as well as manage to learn about fellow group users and exchange helpful tutorials and guides with them. 
+
+Custom PC Enthusiasts is a group focused around custom computer hardware, ranging from monstrous gaming desktops, to the tiny phone in your pocket. Modding, building, supporting, and discussing technology is what we are here to do and we encourage you to join in on the fun! 
+
+=== Newest Articles ===
+  * [[purchasing-advice|Purchasing Advice]]
+  * [[referral_links|Referral Links]]
+  * [[software_list|Software List]]
+
+
+
+

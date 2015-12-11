@@ -1,0 +1,318 @@
+====== Recommended Software List ======
+
+
+==== Browsers ====
+
+• [[https://www.google.com/chrome/browser/desktop/index.html|Chrome]]
+• [[https://www.mozilla.org/en-US/firefox/new/?product=firefox-3.6.8&os=osx%E2%8C%A9=en-US|Firefox]]
+• [[http://www.opera.com/|Opera]]
+• [[http://midori-browser.org/download/|Midori]]
+• [[https://www.torproject.org/projects/torbrowser.html.en|Tor Browser]]
+
+==== Package Installers ====
+
+• [[https://ninite.com/|Ninite]]
+• [[https://chocolatey.org/|Chocolatey]]
+• OneGet
+• Ketarin
+• FreeApps
+• FileHippo
+
+==== Email ====
+
+• Thunderbird
+• Opera Mail
+• Outlook
+• PopTray
+• Eudora
+• Sylpheed
+
+==== Instant Messaging ====
+
+• Pidgin
+• Miranda
+• Trillian
+• Google Hangouts
+• CryptoCat
+• Digsby
+
+==== Instant Relay Chat ====
+• mIRC
+• HexChat
+• ChatZilla
+
+==== VOIP Clients ====
+• TeamSpeak
+• Mumble
+• Skype
+• Kitsi
+• Google Voice
+• Tox
+• Ventrilo
+
+==== File Compression ====
+• 7zip
+• PeaZip
+• WinRAR
+
+==== Torrenting Clients =====
+• Deluge
+• Halite
+• Transmission
+
+==== FTP Clients =====
+• FileZilla
+• WinSCP
+• SmartFTP
+• FireFTP
+
+==== System Maintenance =====
+• CCleaner
+• BleachBit
+• PC Decrapifier
+• Revo Uninstaller
+• Glary Utilities
+• JetClean
+• TuneUp Utilities
+• PatchMyPC
+• FileASSASSIN
+• MemTest
+• DBAN
+• PC-Wizard
+• SUMo
+• D7ii
+• Tron
+
+==== Disk Maintenance and Recovery ====
+• Defraggler
+• SeaTools
+• DBAN
+• Recuva
+• WinDirStat
+• SSDlife
+• CrystalDiskInfo
+• Macrium Reflect
+• Norton Ghost
+• EaseUS Partition Master
+• Acronis Disk Management
+
+==== Anti-virus Solutions ====
+• Avast
+• Avira
+• BitDefender
+• BullGuard
+• ClamWin
+• Emsisoft
+• ESET
+• F-Secure
+• herdProtect
+• Kaspersky
+• McAfee
+• MalwareBytes Anti-Exploit
+• Panda
+• Sophos
+• Tencent
+• Vipre
+• Trend Micro
+• Windows Defender / Security Essentials
+
+==== Malware Removal ====
+• AdwCleaner
+• MalwareBytes Anti-Malware
+• Spybot S&D
+• Secunia PSI
+• HitmanPro
+• HiJackThis
+• rKill
+• AutoRuns
+• ComboFix
+• Remove Fake Antivirus
+• SuperAntiSpyware
+• TDSSkiller
+
+==== Firewall Solutions ====
+• Comodo Firewall
+• Emsisoft Online Armor
+• ZoneAlarm
+• PeerBlock
+• TinyWall
+
+==== System Information ====
+• CPU-Z
+• GPU-Z
+• HWMonitor
+• Speccy
+• Process Explorer
+• BelArc Advisor
+• AIDA64
+• Hwinfo
+• pidGEN
+
+==== Office, Documents, Coding, and PDF ====
+• SumatraPDF
+• Foxit Reader
+• Adobe Reader
+• LibreOffice
+• Kingsoft WPS
+• Microsoft Office
+• Notepad++
+• Windows Essentials
+• Sublime Text
+• Gvim
+• Emacs
+• Visual Studio
+• Jarte
+• OpenOffice.org
+• AbiWord
+• Google Docs
+• Zoho Office
+
+==== Multimedia ====
+• MPC-HC
+• Kawaii Codec Pack
+• VideoLAN Client
+• PotPlayer
+• Kodi
+• Plex
+• Emby
+• Foobar2000
+• MusicBee
+• Music Player Daemon
+• Clementine
+• Spotify
+• AIMP3
+• Audacity
+• HandBrake
+• Freemake
+• MakeMKV
+• BitRipper
+• CDex
+• Media Monkey
+• Winamp
+• QuickTime Alternative
+• iTunes
+
+==== Backup Software ==== 
+• Veeam Endpoint Backup
+• Back4Win
+• DriveImage XML
+• Gmail Space
+• rSync
+• EaseUS Todo Backup
+• Clonezilla
+• SyncBack
+• Toolwiz
+• CrashPlan
+• BitTorrent Sync
+• Areca Backup
+
+==== Graphics Software ====
+• HoneyView
+• IrfanView
+• GIMP
+• Paint.NET
+• InkScape
+• Photoshop CS2
+• Illustrator CS2
+• Picasa
+• RIOT
+• Pixlr
+
+==== Online Storage ====
+• DropBox
+• Google Drive
+• OneDrive
+• Box
+• OwnCloud
+• iCloud
+
+==== Productivity ====
+• Dexpot
+• Ditto
+• Launchy
+• AutoHotKey
+• SendToSendTo
+• Fences
+• OneNote
+• Wunderlist
+• Remembr
+• KeyBreeze
+• Google Desktop
+• Pretty Run
+• RoboForm
+• KeePass
+• EverNote
+• EtherPad
+• WizMouse
+• Everything
+• F.lux
+
+==== Anonymization ====
+• FreeNet
+• Tor
+• GNUnet
+
+==== Digital Distribution ====
+• Steam
+• Origin
+• GOG Galaxy
+• Desura
+• uPlay
+
+==== Customization ====
+• RainMeter
+• ClassicShell
+• Start8
+• SyMenu
+• MicroBin
+• WinAero Tweaker
+• Ultimate Windows Tweaker
+• Fences
+• ObjectDock
+• RocketDock
+• Tiles
+• IconPackager
+• WindowBlinds
+• DisplayFusion
+
+==== Sandboxing ====
+• Sandboxie
+• Comodo Sandbox
+• Evalaze
+
+==== Product Key Recovery ====
+• Produkey
+• Magical Jelly Bean
+
+==== VPN Clients ====
+• Viscosity
+• OpenVPN
+• Freelan
+• Cisco VPN
+• Hamachi
+• ShrewSoft
+
+==== Optical, USB, and Disc Image Tools ====
+• Virtual CloneDrive
+• WinCDEmu
+• ImgBurn
+• DCBurnerXP
+• DVD Flick
+• Rufus
+• LiLi
+• Windows USB/DVD Download Tool
+• UnetBootin
+• WinToUSB
+• YUMI
+
+==== Download Managers ====
+• Jdownloader
+• GetRight
+• DownThemAll
+• IDM
+
+==== 3D Modeling ====
+• Blender
+• SketchUp
+• Unity
+• AutoDesk 123D
