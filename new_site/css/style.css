@@ -336,28 +336,28 @@ a.nivo-nextNav {
   width: 201px;
   background: transparent url(../images/sidebar_underline.jpg) no-repeat;}
 
-.sidebar h2
+#sidebar h2
 { color: #E12F03;}  
   
-.sidebar h4
+#sidebar h4
 { font-size: 125%;
   color: #FFF;}
 
-.sidebar p
+#sidebar p
 { color: #FFF;}
 
-.sidebar a
+#sidebar a
 { color: #E12F03;}
 
-.sidebar a:hover
+#sidebar a:hover
 { text-decoration: none;}
 
-.sidebar ul li, .sidebar ul li.selected
+#sidebar ul li, #sidebar ul li.selected
 { list-style: none; 
   margin: 15px 0;
   padding: 0;}
 
-.sidebar li.selected, .sidebar li:hover
+#sidebar li.selected, #sidebar li:hover
 { color: #5D5D5D;
   text-decoration: none;} 
   
