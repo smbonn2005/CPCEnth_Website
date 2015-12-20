@@ -38,6 +38,12 @@
     });
   }
   </script>
+  <style>
+    div.submitWrapper  {
+      width: 250px;
+      margin: 0 auto;    
+}    
+  </style>
 </head>
 
 <body>
@@ -78,7 +84,9 @@
     <form onsubmit='login($("#username").val(),$("#password").val());return false;'>
       Username: <input type='text' id='username' /><br />
       Password: <input type='password' id='password' /><br />
-    <input type='submit' value='Login!' align="middle" />
+      <div class='submitWrapper'>  
+        <input type='submit' value='Login!' />
+      </div>    
     </form>
   </div><!--close content_text-->  
   <br style="clear:both"/>
