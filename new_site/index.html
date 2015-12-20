@@ -17,26 +17,26 @@
     $.get('http://www.cpcenth.net/new_site/news.html',function(data){
       $('#sidebar').html(data);
     });
-
-    function login(user,pass){
-      $.ajax({
-        url: "login.php",
-        method: "post",
-        data: {
-          username: user,
-          password: pass
-        },
-        success: function(data){
-          if(data == "true"){
-            window.location = './loggedin.html';
-          }else{
-            alert("Login failed.");
-          }
-        },
-        error: function(){alert("There was a problem logging in.");}
-      });
-    }
   });
+  
+  function login(user,pass){
+    $.ajax({
+      url: "login.php",
+      method: "post",
+      data: {
+        username: user,
+        password: pass
+      },
+      success: function(data){
+        if(data == "true"){
+          window.location = './loggedin.html';
+        }else{
+          alert("Login failed.");
+        }
+      },
+      error: function(){alert("There was a problem logging in.");}
+    });
+  }
   </script>
 </head>
 
