@@ -1,3 +1,9 @@
+<php?
+  if(!isset($_COOKIE['username'])){
+  header("Location: admin.html");
+}
+?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
@@ -18,11 +24,6 @@
       $('#sidebar').html(data);
     });
   });
-  var cookie = ReadCookie("username");
-    if(cookie.length == 0)
-    { 
-      window.location.href = './admin.html';
-    }
   </script>
   <style>
     div.content_text  {
