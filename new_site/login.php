@@ -1,6 +1,6 @@
 <?
-$username = (isset($_POST['username']) && !empty($_POST['username'])) ? $_POST['username'] : false;
-$password = (isset($_POST['password']) && !empty($_POST['password'])) ? $_POST['password'] : false;
+$username = (isset($_REQUEST['username']) && !empty($_REQUEST['username'])) ? $_REQUEST['username'] : false;
+$password = (isset($_REQUEST['password']) && !empty($_REQUEST['password'])) ? $_REQUEST['password'] : false;
 
 if(!$username || !$password){
 	die("false1");

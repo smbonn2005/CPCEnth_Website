@@ -21,8 +21,8 @@
 
   function login(user,pass){
     $.ajax({
-      url: "./login.php",
       method: "POST",
+      url: "./login.php",
       data: {
         username: user,
         password: pass
