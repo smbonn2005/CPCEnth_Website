@@ -14,6 +14,28 @@
   <script type="text/javascript">
   $(window).load(function() {
     $('#slider').nivoSlider();
+    $.get('http://www.cpcenth.net/new_site/news.html',function(data){
+      $('#sidebar').html(data);
+    });
+
+    function login(user,pass){
+      $.ajax({
+        url: "login.php",
+        method: "post",
+        data: {
+          username: $('#username').val(),
+          password: $('#password').val().atob();
+        },
+        success: function(data){
+          if(data == "true"){
+            window.location = './loggedin.html';
+          }else{
+            alert("Login failed.");
+          }
+        },
+        error: function(){alert("There was a problem logging in.");}
+      });
+    }
   });
   </script>
 </head>
@@ -73,16 +95,11 @@
 
 <div class="sidebar_container">  		  
   <div id="sidebar">
-    
+
   </div><!--close sidebar-->  
 </div><!--close sidebar_container-->    
 
 </div><!--close site_content-->	
 </div><!--close main-->	
 </body>
-<script type="text/javascript">$(document).ready(function(){
-  $.get('http://www.cpcenth.net/new_site/news.html',function(data){
-    $('#sidebar').html(data);
-  });
-});</script>
 </html>
