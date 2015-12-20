@@ -3,7 +3,7 @@ $username = (isset($_POST['username']) && !empty($_POST['username'])) ? $_POST['
 $password = (isset($_POST['password']) && !empty($_POST['password'])) ? $_POST['password'] : false;
 
 if(!$username || !$password){
-	die("false");
+	die("false1");
 }
 
 $auth_username = "admin";
@@ -15,6 +15,6 @@ if(strtolower($username) == $auth_username && $password == $auth_password){
 	die("true");
 } else {
 	// Incorrect Login
-	die("false");
+	die("false2");
 }
 ?>
