@@ -12,9 +12,12 @@
   <script type="text/javascript" src="js/jquery.easing.min.js"></script>
   <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
   <script type="text/javascript">
-    $(window).load(function() {
-        $('#slider').nivoSlider();
+  $(window).load(function() {
+    $('#slider').nivoSlider();
+    $.get('http://www.cpcenth.net/new_site/news.html',function(data){
+      $('#sidebar').html(data);
     });
+  });
   </script>
 </head>
 
@@ -65,32 +68,11 @@
         <div style="width:430px; float:right;"><p style="padding-top: 15px"><input class="submit" type="submit" name="contact_submitted" value="Send" /></p></div>
       </div><!--close content-->
 
-      <div class="sidebar_container">  		  
-		<div class="sidebar">
-          <div class="sidebar_item">
-            <h2>Latest Blog</h2>
-			<h4>July 2012</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>
-		      <a href="#">Read more</a>
-           </div><!--close sidebar_item--> 
-         </div><!--close sidebar-->     		
-	    <div class="sidebar">
-          <div class="sidebar_item">
-            <h2>Latest Blog</h2>
-		  	<h4>July 2012</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>
-		      <a href="#">Read more</a>
-          </div><!--close sidebar_item--> 
-        </div><!--close sidebar-->  
-		<div class="sidebar">
-          <div class="sidebar_item">
-            <h2>Latest Blog</h2>
-			<h4>July 2012</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tempor enim.</p>
-		      <a href="#">Read more</a>
-          </div><!--close sidebar_item--> 
-        </div><!--close sidebar-->  
-      </div><!--close sidebar_container-->    
+<div class="sidebar_container">       
+  <div id="sidebar">
+
+  </div><!--close sidebar-->  
+</div><!--close sidebar_container-->    
 	  
     </div><!--close site_content-->	
   </div><!--close main-->	
