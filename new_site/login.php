@@ -1,4 +1,5 @@
 <?
+die($_POST['username'].' '.$_POST['password']);
 $username = (isset($_POST['username']) && !empty($_POST['username'])) ? $_POST['username'] : false;
 $password = (isset($_POST['password']) && !empty($_POST['password'])) ? $_POST['password'] : false;
 
