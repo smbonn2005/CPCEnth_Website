@@ -23,8 +23,8 @@
         url: "login.php",
         method: "post",
         data: {
-          username: $('#username').val(),
-          password: $('#password').val().atob();
+          username: user,
+          password: pass
         },
         success: function(data){
           if(data == "true"){
