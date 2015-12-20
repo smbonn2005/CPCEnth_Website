@@ -18,25 +18,6 @@
       $('#sidebar').html(data);
     });
   });
-
-  function login(user,pass){
-    $.ajax({
-      method: "POST",
-      url: "./login.php",
-      data: {
-        username: user,
-        password: pass
-      },
-      success: function(data){
-        if(data == "true"){
-          window.location = './loggedin.html';
-        }else{
-          alert("Login failed.");
-        }
-      },
-      error: function(){alert("There was a problem logging in.");}
-    });
-  }
   </script>
 </head>
 
