@@ -6,10 +6,10 @@ if(!$username || !$password){
 	die("false1");
 }
 
-$auth_username = "admin";
-$auth_password = "adminpassword123";
+$auth_username = array("admin","smbonn2005");
+$auth_password = array("adminpassword123","potter");
 
-if(strtolower($username) == $auth_username && $password == $auth_password){
+if(in_array(strtolower($username),$auth_username) && $key = array_search(strtolower($username), $auth_username) && $password == $auth_password[$key]){
 	// Good login
 	setcookie('username',$username,time()+7*24*60*60);
 	die("true");
