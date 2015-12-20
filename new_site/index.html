@@ -18,10 +18,10 @@
       $('#sidebar').html(data);
     });
   });
-  
+
   function login(user,pass){
     $.ajax({
-      url: "login.php",
+      url: "./login.php",
       method: "post",
       data: {
         username: user,
