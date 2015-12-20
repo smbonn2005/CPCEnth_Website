@@ -18,6 +18,11 @@
       $('#sidebar').html(data);
     });
   });
+  var cookie = ReadCookie("username");
+    if(cookie.length == 0)
+    { 
+      window.location.href = '/admin.html';
+    }
   </script>
   <style>
     div.content_text  {
