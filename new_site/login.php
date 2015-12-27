@@ -7,7 +7,7 @@ if(!$username || !$password){
 }
 
 $auth_username = array("admin","smbonn2005");
-$auth_password = array("adminpassword123","potter");
+$auth_password = array("adminpassword123","potter13467");
 $key = array_search(strtolower($username), $auth_username);
 if($key !== false && $password == $auth_password[$key]){
 	// Good login
