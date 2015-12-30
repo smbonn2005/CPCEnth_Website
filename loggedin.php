@@ -20,7 +20,7 @@
   <script type="text/javascript">
   $(window).load(function() {
     $('#slider').nivoSlider();
-    $.get('h./news.html',function(data){
+    $.get('./news.html',function(data){
       $('#sidebar').html(data);
     });
   });
