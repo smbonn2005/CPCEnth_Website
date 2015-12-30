@@ -35,7 +35,7 @@
       },
       success: function(data){
         if(data == "true"){
-          window.location = './loggedin.html';
+          window.location = './loggedin.php';
         }else{
           alert("Login failed.");
         }
