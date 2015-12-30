@@ -1,3 +1,10 @@
+<?php
+  if(!isset($_COOKIE['username'])){
+  header('Location: admin.php');
+  }
+  exit();
+?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
@@ -19,32 +26,45 @@
     });
   });
   </script>
+  <style>
+    div.content_text  {
+      width: 700px;
+      margin: 0 auto;    
+}    
+    div.link   {
+      a: #FFFFFF;
+      font-size: 16px;
+      font-weight: bold;
+      width: 300px;
+      margin: 0 auto;
+    }
+  </style>
 </head>
 
 <body>
-  <div id="main">	
+  <div id="main"> 
    <div id="site_content">
     <div id="heading">
      <div class="site_heading">
-       <h1 style="width: 446px">Custom<span> PC </span>Enthusiasts</h1>	
+       <h1 style="width: 446px">Custom<span> PC </span>Enthusiasts</h1> 
      </div><!--close site_heading-->
-     <div class="site_slogan">	  
+     <div class="site_slogan">    
       <h2>Share and Discuss Anything Related to PC's</h2>
     </div><!--close site_slogan-->
   </div><!--close heading-->
   <div id="header">
    <div id="menubar">
     <ul id="menu">
-      <li class="current"><a href="index.html">Home</a></li>
+      <li><a href="index.html">Home</a></li>
       <li><a href="adminprojects.html">Admin Projects</a></li>
       <li><a href="store.html">Store</a></li>
       <li><a href="vip.html">VIP</a></li>
       <li><a href="links-referrals.html">Links / Referrals</a></li>
       <li><a href="contactus.html">Contact Us</a></li>
-      <li><a href="admin.html">Admin Login</a></li>
+      <li class="current"><a href="admin.php">Admin Login</a></li>
     </ul>
   </div><!--close menubar-->
-</div><!--close header-->	  
+</div><!--close header-->   
 <div id="banner_image">
  <div id="slider-wrapper">        
   <div id="slider" class="nivoSlider">
@@ -53,40 +73,28 @@
     <img src="images/slide3.jpg" alt="" />
   </div><!--close slider-->
 </div><!--close slider_wrapper-->
-</div><!--close banner_image-->			  
+</div><!--close banner_image-->       
 <div id="content">
-  <h1>Welcome To The Custom PC Enthusiasts Website!</h1>
-  <p>Custom PC Enthusiasts is a group focused around custom computer hardware, ranging from monstrous gaming desktops, to the tiny phone in your pocket. Modding, building, supporting, and discussing technology is what we are here to do and we encourage you to join in on the fun! </p>
+  <h1>Welcome Custom PC Enthusiasts' Admins!</h1>
+  <br />
   <div class="content_underline"></div>
-  <div class="content_image">
-    <a href="#"><img alt="image" src="images/image1.jpg" /></a>
-  </div><!--close content_image-->
+  <br />
+  <div class="link">
+    <a href="https://docs.google.com/spreadsheets/d/1d7vfcgAn1iV_yAwU06MR6OuuoBjsnTisnKZPxiKgP0w/pubhtml">Warned/Banned Users SpreadSheet</a>
+  </div>
   <div class="content_text">
-    <p><h3>Thread of the week:</h3>
-        Youtube finally allows minimized playback on mobile devices, but only under their YouTube Red subscriber only feature.
-    </p>
-    <a href="http://on.fb.me/1P0dW3x">Comments Here</a>
+    <iframe src="https://docs.google.com/forms/d/1-L2pxIvgoAVcGiRQLclb5udX0zqvfTS8nDIXjbt4reY/viewform?embedded=true" width="700" height="1750" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
   </div><!--close content_text-->  
   <br style="clear:both"/>
-  <div class="content_image_right">
-    <a href="#"><img alt="image" src="images/image2.jpg" /></a>
-  </div><!--close content_image-->
-  <div class="content_text_left">
-    <p><h3>Community Spotlight:</h3>
-        Starting in January we will be interviewing prominent members of the group, and posting their responses here!
-    </p>
-    <a href="#">Read More</a>
-  </div><!--close content_text-->  		
+</div><!--close content-->      
 
-</div><!--close content-->	    
-
-<div class="sidebar_container">  		  
+<div class="sidebar_container">       
   <div id="sidebar">
 
   </div><!--close sidebar-->  
 </div><!--close sidebar_container-->    
 
-</div><!--close site_content-->	
-</div><!--close main-->	
+</div><!--close site_content--> 
+</div><!--close main-->
 </body>
 </html>

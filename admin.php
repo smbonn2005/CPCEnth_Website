@@ -1,11 +1,10 @@
 <?php
-  error_reporting(E_ALL);
-  ini_set('display_errors', TRUE);
   if(isset($_COOKIE['username'])){
-  header('Location: loggedin.html');
+  header('Location: loggedin.php');
   }
   exit();
 ?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
@@ -74,7 +73,7 @@
       <li><a href="vip.html">VIP</a></li>
       <li><a href="links-referrals.html">Links / Referrals</a></li>
       <li><a href="contactus.html">Contact Us</a></li>
-      <li class="current"><a href="admin.html">Admin Login</a></li>
+      <li class="current"><a href="admin.php">Admin Login</a></li>
     </ul>
   </div><!--close menubar-->
 </div><!--close header-->   
