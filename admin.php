@@ -2,7 +2,6 @@
   if(isset($_COOKIE['username'])){
   header('Location: loggedin.php');
   }
-  exit();
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
@@ -21,7 +20,7 @@
   <script type="text/javascript">
   $(window).load(function() {
     $('#slider').nivoSlider();
-    $.get('http://www.cpcenth.net/new_site/news.html',function(data){
+    $.get('h./news.html',function(data){
       $('#sidebar').html(data);
     });
   });
